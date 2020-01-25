@@ -1,0 +1,11 @@
+state = {
+    lists: [
+        { id: 1, name: Work, empty: true, completed: false, active: true },
+        { id: 2, name: HG, empty: true, completed: false, active: false },
+        { id: 3, name: School, empty: true, completed: false, active: false }
+    ],
+    todos: [
+        { id: 1000, title: "Payroll", details: "talk to Jesse about shift review", datetimeDue: "", completed: false, listId: 1}
+    ],
+    UI/display states etc etc
+}
